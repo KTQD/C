@@ -1,2 +1,2 @@
-# Yêu cầu
+# Hướng dẫn
 Chỉnh sửa file main.c
